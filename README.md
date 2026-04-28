@@ -72,3 +72,4 @@ python bot_configurator.py
 <!-- update 3598 -->
 <!-- update 5735 -->
 <!-- update 1261 -->
+<!-- update 2996 -->
